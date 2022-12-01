@@ -21,6 +21,8 @@ Während die Fotografinnen weiterarbeiten, machen wir uns auf, zusammen mit Ange
 
  
 
+![Nach einer Stunde Shooting, erste Besprechung der Ergebnisse. ](souvy-1.jpg)
+
 **Unterwegs mit Angela und Silas bei „souvy“** 
 
 Elias begleitet Silas bei der Nachfüllung eines Kühlschrankes bei einem Kunden und Angela nimmt Moritz zur Besichtigung ihres Lagers mit. \
