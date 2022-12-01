@@ -41,7 +41,9 @@ Was unterscheidet souvy weiter von anderen, ähnlichen Unternehmen, die Verpfleg
 
 souvy wendet eine spezielle Kochtechnik an, welche frischgekochtes Essen bis zu 21 Tagen haltbar macht. Angela und Silas ist eines besonders wichtig: Foodwaste verhindern. Um dieses Ziel umzusetzen, verwendet souvy eine ungewöhnliche Kochmethode. Der Name dieser Methode ist «sous-vide», stammt aus dem Französischen und bedeutet so viel wie «unter Vakuum». Diese Art des Kochens wurde in den 1970er-Jahren erfunden und wird überwiegend im Gourmet Bereich angewendet. Bei dieser Technik wird, wie der Name sagt, unter Vakuum gekocht. Angela ergänzt: „Indem man beim Kochen nie über 100 Grad erwärmt, bleiben alle Nährstoffe und Vitamine erhalten und das Essen bleibt geschmackvoll.“ Weil das Essen nie mit Luft in Berührung kommt, wird es geschmacklich intensiver und bleibt gleichzeitig zart und knackig im Biss. Damit das Essen lange haltbar bleibt, wird das Gekochte zum Schluss auf zwei Grad schockgekühlt. Somit wird es steril und braucht keine zusätzlichen Konservierungsstoffe. Das Essen ist danach 21 Tage lang haltbar. 
 
-> Das Essen wird nie über 100° Grad erwärmt und bleibt somit gesund und geschmackvoll *Angela Hulliger Co-Founder souvy* 
+> «Das Essen wird nie über 100° Grad erwärmt und bleibt somit gesund und geschmackvoll.»
+>
+>  *Angela Hulliger Co-Founder souvy* 
 
 Angela ergänzt, dass es auch noch ein anderes System gibt, das weiteren Foodwaste bei souvy verhindert: Die angebotenen Menüs bleiben während sieben Tagen bei einem Kunden. Danach werden sie im Kühlschrank eines anderen Kunden angeboten. Falls also beim ersten Kunden ein Menü nicht verkauft wird, werden die Menüs bei einem zweiten und dritten Kunden angeboten. Dank diesem System profitieren die Kunden von einer abwechslungsreichen Menü-Auswahl und es werden keine Lebensmittel verschwendet. Bleibt ein Menü bis über das Ablaufdatum hinaus in einem Kühlschrank, so konsumieren Angela und Silas das Essen selbst. Zudem produziert Silas nachfragebasiert – Menüs, die sich schlechter verkaufen, werden weniger gekocht, beliebte Menüs häufiger angeboten.  
 
