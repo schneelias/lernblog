@@ -53,7 +53,11 @@ Dank der einzigartigen Kochmethode, dem System der Menürotation zwischen den Ku
 
 **Der intelligente Kühlschrank** 
 
-Nachdem wir das Spezielle am Kochvorgang verstanden haben, erklärt uns Angela die vielen interessanten Einzelheiten des intelligenten Kühlschrankes und dessen Funktionen: „Unsere intelligenten Kühlschränke funktionieren vollautomatisch“. 
+Nachdem wir das Spezielle am Kochvorgang verstanden haben, erklärt uns Angela die vielen interessanten Einzelheiten des intelligenten Kühlschrankes und dessen Funktionen: „Unsere intelligenten Kühlschränke funktionieren vollautomatisch.“ 
+
+> "Unsere intelligenten Kühlschränke funktionieren vollautomatisch."
+>
+> *Angela Hulliger Co-Founder souvy* 
 
 Und so funktioniert der intelligente Kühlschrank von souvy: Der vollautomatische Kühlschrank liest die Bestände mithilfe der sogenannten RFID-Technologie. Sensoren lesen die Informationen der mit Dezibel gekennzeichneten Chipaufkleber, welche an den Menüs befestigt sind. Dank diesen Informationen kennt der Kühlschrank seine eigenen Bestände und kalkuliert dann die Abrechnungsdaten für den Endkunden. Nach jedem Öffnen und Schliessen der Kühlschranktüre wird die Abrechnung automatisch vorgenommen.   
 
