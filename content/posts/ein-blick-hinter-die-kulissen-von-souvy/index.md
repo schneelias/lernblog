@@ -39,9 +39,9 @@ Was unterscheidet souvy weiter von anderen, ähnlichen Unternehmen, die Verpfleg
 
 **Sous-vide – eine spezielle Kochtechnik ohne Foodwaste**  
 
-souvy wendet eine spezielle Kochtechnik an, welche frischgekochtes Essen bis zu 21 Tagen haltbar macht. Angela und Silas ist eines besonders wichtig: Foodwaste verhindern. Um dieses Ziel umzusetzen, verwendet souvy eine ungewöhnliche Kochmethode. Der Name dieser Methode ist «sous-vide», stammt aus dem Französischen und bedeutet so viel wie «unter Vakuum». Diese Art des Kochens wurde in den 1970er-Jahren erfunden und wird überwiegend im Gourmet Bereich angewendet. Bei dieser Technik wird, wie der Name sagt, unter Vakuum gekocht. Angela ergänzt: „Indem man beim Kochen nie über 100 Grad erwärmt, bleiben alle Nährstoffe und Vitamine erhalten und das Essen bleibt geschmackvoll.“ Weil das Essen nie mit Luft in Berührung kommt, wird es geschmacklich intensiver und bleibt gleichzeitig zart und knackig im Biss. Damit das Essen lange haltbar bleibt, wird das Gekochte zum Schluss auf zwei Grad schockgekühlt. Somit wird es steril und braucht keine zusätzlichen Konservierungsstoffe. Das Essen ist danach 21 Tage lang haltbar. 
+souvy wendet eine spezielle Kochtechnik an, welche frischgekochtes Essen bis zu 21 Tagen haltbar macht. Angela und Silas ist eines besonders wichtig: Foodwaste verhindern. Um dieses Ziel umzusetzen, verwendet souvy eine ungewöhnliche Kochmethode. Der Name dieser Methode ist "sous-vide", stammt aus dem Französischen und bedeutet so viel wie "unter Vakuum". Diese Art des Kochens wurde in den 1970er-Jahren erfunden und wird überwiegend im Gourmet Bereich angewendet. Bei dieser Technik wird, wie der Name sagt, unter Vakuum gekocht. Angela ergänzt: „Indem man beim Kochen nie über 100 Grad erwärmt, bleiben alle Nährstoffe und Vitamine erhalten und das Essen bleibt geschmackvoll.“ Weil das Essen nie mit Luft in Berührung kommt, wird es geschmacklich intensiver und bleibt gleichzeitig zart und knackig im Biss. Damit das Essen lange haltbar bleibt, wird das Gekochte zum Schluss auf zwei Grad schockgekühlt. Somit wird es steril und braucht keine zusätzlichen Konservierungsstoffe. Das Essen ist danach 21 Tage lang haltbar. 
 
-> «Das Essen wird nie über 100° Grad erwärmt und bleibt somit gesund und geschmackvoll.»
+> "Das Essen wird nie über 100° Grad erwärmt und bleibt somit gesund und geschmackvoll."
 >
 >  *Angela Hulliger Co-Founder souvy* 
 
@@ -85,13 +85,3 @@ Angela ist 29 Jahre alt und wohnt in der Lorraine in Bern. In ihrer Freizeit geh
 Angela kennt ihren Geschäftspartner Silas seit über 15 Jahren. Im letzten Sommer ist er auf sie zugegangen und hat ihr das erste Mal von sous-vide erzählt. Er schwärmte von den Vorteilen dieser Kochmethode und überzeugte sie damit, mit ihm die Firma souvy zu gründen und aufzubauen.
 
 {{</box>}}
-
-
-
-<!--StartFragment-->
-
-Zitat Auszug 1: Das Essen wird nie über 100° Grad erwärmt und bleibt somit gesund und geschmackvoll, Angela Hulliger Co-Founder souvy 
-
-Zitat Auszug 2: Unsere intelligenten Kühlschränke funktionieren vollautomatisch, Angela Hulliger Co-Founder souvy 
-
-<!--EndFragment-->
