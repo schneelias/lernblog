@@ -78,10 +78,18 @@ Um Viertel nach zwölf findet die Endbesprechung statt. Der Content für die neu
 
 {{<box>}}
 
-Angela Hulliger 
+**Angela Hulliger** 
 
 Angela ist 29 Jahre alt und wohnt in der Lorraine in Bern. In ihrer Freizeit geht sie gerne Gleitschirm fliegen und im Winter Snowboard fahren. Unter anderem ist sie eine begeisterte Grafikdesignerin. Sie hat einen Bachelor an der BFH Berner Fachhochschule und Berufserfahrung in Brand-, Category- & Productmanagement. 
 
 Angela kennt ihren Geschäftspartner Silas seit über 15 Jahren. Im letzten Sommer ist er auf sie zugegangen und hat ihr das erste Mal von sous-vide erzählt. Er schwärmte von den Vorteilen dieser Kochmethode und überzeugte sie damit, mit ihm die Firma souvy zu gründen und aufzubauen.
+
+{{</box>}}
+
+{{<box>}}
+
+**Das Unternehmen naa.**
+
+naa. ist eine junge Digitalagentur, welche von den zwei jungen Frauen Fabienne und Julia geführt wird. Sie realisieren multimediale Aufträge für Unternehmen jeglicher Grösse. Sie beraten und unterstützen bedürfnisorientiert, zielführend und unkompliziert. Dabei liegt ihnen ein offener Austausch auf Augenhöhe am Herzen. Ihr Auftritt ist persönlich, kreativ und sie zeigen viel Liebe fürs Detail und für einen gelungenen digitalen Auftritt. Sie bezeichnen sich selbst als „digitale Natives“ und kennen die Bedürfnisse der Generation von morgen bestens.
 
 {{</box>}}
