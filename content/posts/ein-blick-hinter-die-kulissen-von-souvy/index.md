@@ -21,7 +21,7 @@ Während die Fotografinnen weiterarbeiten, machen wir uns auf, zusammen mit Ange
 
  
 
-![Nach einer Stunde Shooting, erste Besprechung der Ergebnisse. ](souvy-1.jpg)
+![Nach einer Stunde Shooting, erste Besprechung der Ergebnisse. (aufgenommen von Moritz Streit)](souvy-1.jpg)
 
 **Unterwegs mit Angela und Silas bei „souvy“** 
 
