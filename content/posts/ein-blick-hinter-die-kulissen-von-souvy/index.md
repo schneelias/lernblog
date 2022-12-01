@@ -6,6 +6,6 @@ pinned = false
 +++
 {{<lead>}}
 
-###### Moritz und Elias lernen während dem Fotoshooting für die neue website das start-up „souvy“ von Angela Hulliger und Silas Bohren kennen. Nachhaltige Verpflegung am Arbeitsplatz aus einer anderen Perspektive.
+Moritz und Elias lernen während dem Fotoshooting für die neue website das start-up „souvy“ von Angela Hulliger und Silas Bohren kennen. Nachhaltige Verpflegung am Arbeitsplatz aus einer anderen Perspektive.
 
-###### {{</lead>}}
+{{</lead>}}
