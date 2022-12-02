@@ -6,7 +6,7 @@ pinned = false
 image = "souvy-3.jpg"
 footnotes = "Autoren: Eine Reportage von Moritz Streit und Elias Schneeberger, zwei Schüler des Gymnasiums Kirchenfeld."
 +++
-{{<lead>}}l
+{{<lead>}}
 
 Moritz und Elias lernen während dem Fotoshooting für die neue website das start-up „souvy“ von Angela Hulliger und Silas Bohren kennen. Nachhaltige Verpflegung am Arbeitsplatz aus einer anderen Perspektive.
 
