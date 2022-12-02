@@ -58,6 +58,8 @@ Angela ergänzt, dass es auch noch ein anderes System gibt, das weiteren Foodwas
 
 Dank der einzigartigen Kochmethode, dem System der Menürotation zwischen den Kunden und einer nachfragebasierten Produktion hebt sich souvy von der Konkurrenz ab. Angela meint stolz „Wir sehen zu jeder Zeit unsere Livebestände und können anhand unserer Lagerbestände und der Nachfrage der letzten Wochen unsere Produktionsentscheidungen treffen“. souvy übertrifft den Marktleader Felfel (dem heute grössten, mit souvy vergleichbaren Anbieter von Mitarbeiterverpflegung in der Schweiz) bereits heute in Bezug auf geschmackvolles Essen und die Verhinderung von Foodwaste. Allerdings verfügt Felfel über eine bessere Organisation (z.B. bessere Benutzerfreundlichkeit der intelligenten Kühlschränke) und mehr Erfahrung, da sie schon länger im Geschäft sind. 
 
+![Frische Food Präparation für Fotos der eigenen Gerichte. (aufgenommen von Moritz Streit)](souvy-2.jpg)
+
 **Der intelligente Kühlschrank** 
 
 Nachdem wir das Spezielle am Kochvorgang verstanden haben, erklärt uns Angela die vielen interessanten Einzelheiten des intelligenten Kühlschrankes und dessen Funktionen: „Unsere intelligenten Kühlschränke funktionieren vollautomatisch.“ 
