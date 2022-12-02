@@ -33,6 +33,14 @@ Während die Fotografinnen weiterarbeiten, machen wir uns auf, zusammen mit Ange
 
 ![naa. Fotografinnen Fabienne und Julia live bei der Arbeit. (aufgenommen von Moritz Streit)](souvy-3.jpg)
 
+{{<box title="Ausklappbare Box">}
+
+**Das Unternehmen naa.**
+
+naa. ist eine junge Digitalagentur, welche von den zwei jungen Frauen Fabienne und Julia geführt wird. Sie realisieren multimediale Aufträge für Unternehmen jeglicher Grösse. Sie beraten und unterstützen bedürfnisorientiert, zielführend und unkompliziert. Dabei liegt ihnen ein offener Austausch auf Augenhöhe am Herzen. Ihr Auftritt ist persönlich, kreativ und sie zeigen viel Liebe fürs Detail und für einen gelungenen digitalen Auftritt. Sie bezeichnen sich selbst als „digitale Natives“ und kennen die Bedürfnisse der Generation von morgen bestens.
+
+{{</box>}}
+
 **Unterwegs mit Angela und Silas bei „souvy“** 
 
 Elias begleitet Silas bei der Nachfüllung eines Kühlschrankes bei einem Kunden und Angela nimmt Moritz zur Besichtigung ihres Lagers mit. \
@@ -45,6 +53,16 @@ Angela erzählt weiter über souvy und was für sie wichtig ist. 
 souvy ist ein start-up Unternehmen, das gesunde, nachhaltige Verpflegung am Arbeitsplatz ohne Foodwaste anbietet. Das Berner Unternehmen besteht derzeit aus den beiden Co-Foundern Angela Hulliger und Silas Bohren. Angela erzählt, wie es dazu gekommen ist: „Silas und ich sind sehr lange schon befreundet und hatten unzählige Geschäftsideen zusammen“. Silas kam mit der Geschäftsidee auf Angela zu, schwärmte von dem Potential von souvy und konnte sie so überzeugen. Die beiden Co-Founder teilen sich die Verantwortung für die unterschiedlichen Arbeitsbereiche. Angela ist hauptsächlich für das Management und alles rund um die Website von souvy zuständig, während Silas für das Operative die Verantwortung trägt. Er kümmert sich zum Beispiel um die Entwicklung und Produktion der Menüs und darum, dass die Produkte zur richtigen Zeit am richtigen Ort sind. \
 Der Alltag von Angela und Silas ist sehr vielfältig; kein Tag ist gleich wie der andere und sie haben viele unterschiedliche Arbeiten, die sie erledigen müssen. So haben sie zum Beispiel jeden Montagmorgen ein weekly reporting meeting zur Besprechung ihrer Umsatzzahlen und der Marketingprozesse wie Website-Werbung und den Auftritt auf sozialen Medien. Im Moment ist ihr wichtigster Prozess aber die Suche nach neuen Kunden; eine Aufgabe, die für jedes start-up nicht ganz einfach ist. Umso glücklicher ist Angela, dass souvy doch bereits zwei Kunden hat. Angela hat auch noch weitere Ideen. Sie erzählt, dass souvy gerne mit Menschen, die eine Beeinträchtigung haben, zusammenarbeiten möchte. Hauptsächlich im Bereich des Kochens, denn für diese Menschen sind repetitive Arbeiten einfacher. Deshalb ist deren Mithilfe beim Kleinhacken und Abpacken von Gemüse und danach beim Vakuumieren geplant. \
 Was unterscheidet souvy weiter von anderen, ähnlichen Unternehmen, die Verpflegung am Arbeitsplatz anbieten? Angela erzählt. 
+
+{{<box title="Ausklappbare Box">}
+
+**Angela Hulliger** 
+
+Angela ist 29 Jahre alt und wohnt in der Lorraine in Bern. In ihrer Freizeit geht sie gerne Gleitschirm fliegen und im Winter Snowboard fahren. Unter anderem ist sie eine begeisterte Grafikdesignerin. Sie hat einen Bachelor an der BFH Berner Fachhochschule und Berufserfahrung in Brand-, Category- & Productmanagement. 
+
+Angela kennt ihren Geschäftspartner Silas seit über 15 Jahren. Im letzten Sommer ist er auf sie zugegangen und hat ihr das erste Mal von sous-vide erzählt. Er schwärmte von den Vorteilen dieser Kochmethode und überzeugte sie damit, mit ihm die Firma souvy zu gründen und aufzubauen.
+
+{{</box>}}
 
 **Sous-vide – eine spezielle Kochtechnik ohne Foodwaste**  
 
@@ -87,17 +105,9 @@ Um Viertel nach zwölf findet die Endbesprechung statt. Der Content für die neu
 
 <!--EndFragment-->
 
-{{<box>}}
 
-**Angela Hulliger** 
 
-Angela ist 29 Jahre alt und wohnt in der Lorraine in Bern. In ihrer Freizeit geht sie gerne Gleitschirm fliegen und im Winter Snowboard fahren. Unter anderem ist sie eine begeisterte Grafikdesignerin. Sie hat einen Bachelor an der BFH Berner Fachhochschule und Berufserfahrung in Brand-, Category- & Productmanagement. 
-
-Angela kennt ihren Geschäftspartner Silas seit über 15 Jahren. Im letzten Sommer ist er auf sie zugegangen und hat ihr das erste Mal von sous-vide erzählt. Er schwärmte von den Vorteilen dieser Kochmethode und überzeugte sie damit, mit ihm die Firma souvy zu gründen und aufzubauen.
-
-{{</box>}}
-
-{{<box>}}
+{{<box title="Ausklappbare Box">}
 
 **Das Unternehmen naa.**
 
