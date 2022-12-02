@@ -95,11 +95,3 @@ Um Viertel nach zwölf findet die Endbesprechung statt. Der Content für die neu
 ![Vorher-nachher Vergleich der Website von souvy. (zusammengestellt von Angela Hulliger) ](souvy5-k.png)
 
 <!--EndFragment-->
-
-{{<box title="Ausklappbare Box">}
-
-**Das Unternehmen naa.**
-
-naa. ist eine junge Digitalagentur, welche von den zwei jungen Frauen Fabienne und Julia geführt wird. Sie realisieren multimediale Aufträge für Unternehmen jeglicher Grösse. Sie beraten und unterstützen bedürfnisorientiert, zielführend und unkompliziert. Dabei liegt ihnen ein offener Austausch auf Augenhöhe am Herzen. Ihr Auftritt ist persönlich, kreativ und sie zeigen viel Liebe fürs Detail und für einen gelungenen digitalen Auftritt. Sie bezeichnen sich selbst als „digitale Natives“ und kennen die Bedürfnisse der Generation von morgen bestens.
-
-{{</box>}}
