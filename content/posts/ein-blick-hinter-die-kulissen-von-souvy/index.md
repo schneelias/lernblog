@@ -3,7 +3,7 @@ title = "Ein Blick hinter die Kulissen von „souvy“ "
 date = "2022-12-01"
 draft = false
 pinned = false
-image = "souvy-3.jpg"
+image = "souvy-1.jpg"
 +++
 Autoren: Eine Reportage von Moritz Streit und Elias Schneeberger, zwei Schüler des Gymnasiums Kirchenfeld.
 
