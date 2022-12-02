@@ -31,7 +31,7 @@ Wir treffen um 09:00 Uhr in den Geschäftsräumen von souvy, am Randweg 5a in Be
 Um 09:30 Uhr beginnen die beiden Fotografinnen mit ihrer Arbeit. Wir können beobachten, wie sie konzentriert unterschiedlichste Sujets und Kamerawinkel ausprobieren. Sie sprechen sich untereinander ab, stellen Menüs um und komponieren mit viel Liebe zum Detail neue Einstellungen. \
 Während die Fotografinnen weiterarbeiten, machen wir uns auf, zusammen mit Angela und Silas hinter die Kulissen von souvy zu schauen. 
 
-![naa. Fotografinnen Fabienne und Julia live bei der Arbeit. (aufgenommen von Moritz Streit)](souvy-1.jpg)
+![naa. Fotografinnen Fabienne und Julia live bei der Arbeit. (aufgenommen von Moritz Streit)](souvy-3.jpg)
 
 **Unterwegs mit Angela und Silas bei „souvy“** 
 
@@ -83,7 +83,7 @@ Trotz einigen Problemen in der start-up Phase ist Angela mit der aktuellen Situa
 Während Elias und Silas zurück von ihrer Nachfülltour beim Kunden sind, kommen auch Angela und Moritz von ihrer Lagerbesichtigung zurück zum Fotoshooting. Die beiden Fotografinnen Fabienne und Julia waren fleissig. Kurz vor elf Uhr beginnt die zweite gemeinsame Besprechung, um die gemachten Fotos anzuschauen. Angela und Silas sind sehr zufrieden. Dank professioneller Fotos, die beispielsweise eine haltende Hand im Bild zeigen, wirken die neuen Bilder natürlicher und lebendiger als die alten. Trotzdem haben Angela und Silas noch ein paar weitere Fotowünsche. Ein Sujet soll den ganzen Kühlschrank mit allen Produkten zeigen und ein weiteres das frisch zubereitete Essen. Also fängt Silas mit der Zubereitung eines Essens an und das Fotoshooting geht weiter.  \
 Um Viertel nach zwölf findet die Endbesprechung statt. Der Content für die neue Website steht und ein weiterer Meilenstein zur Professionalisierung des start-up‘s souvy ist erreicht. Die zwei Co-Founder Angela und Silas sind zufrieden mit dem Ergebnis und blicken gemeinsam mit den Fotografinnen Fabienne und Julia von naa. und uns auf einen spannenden, erfolgreichen Montagmorgen zurück. 
 
-![Vorher-nachher Vergleich der Website von souvy. (aufgenommen von Moritz Streit)](souvy-5.jpg)
+![Vorher-nachher Vergleich der Website von souvy. (aufgenommen von Moritz Streit)](souvy5-k.png)
 
 <!--EndFragment-->
 
