@@ -1,5 +1,5 @@
 +++
-title = "Ein Blick hinter die Kulissen von „souvy“ "
+title = "Ein Blick hinter die Kulissen von „souvy“"
 date = "2022-12-01"
 draft = false
 pinned = false
@@ -14,8 +14,6 @@ Moritz und Elias lernen während dem Fotoshooting für die neue website das star
 
 Am Montagmorgen, 05.09.2022 machen wir uns gegen 08.30 Uhr auf, um bei einem Fotoshooting der Digitalagentur naa. für das start-up Unternehmen souvy dabei zu sein. Die Resultate des Fotoshootings werden anschließend für die neue Website von souvy verwendet. Wir sind sehr gespannt auf den bevorstehenden Morgen, denn Unternehmen wie souvy, die Lösungen zum Problem von Foodwaste und der Umweltverschmutzung gefunden haben, interessieren uns sehr.
 
-<!--StartFragment-->
-
 **Content creation mit der Digitalagentur naa.** 
 
 Wir treffen um 09:00 Uhr in den Geschäftsräumen von souvy, am Randweg 5a in Bern, ein. Die beiden Fotografinnen Fabienne und Julia von der jungen Digitalagentur naa. sind ebenfalls vor Ort. Sie wurden von Angela und Silas von souvy beauftragt, den neuen digitalen Auftritt zu gestalten. Nach einem ersten gegenseitigen Kennenlernen wird gemeinsam festgelegt, welche Art von Bildern für die Website gebraucht werden. Die Stimmung ist locker und entspannt und dennoch seriös und professionell. Für Angela und Silas ist es wichtig, dass ihr „intelligenter Kühlschrank“ gezeigt wird, dass man sieht, wie jemand den Kühlschrank bedient und wie ihre Menüs und Snacks aussehen. Die Vielfalt der Auswahl soll sichtbar werden. Die Bilder sollen simpel sein und nicht zu viel Verschiedenes zeigen.  \
@@ -24,9 +22,7 @@ Während die Fotografinnen weiterarbeiten, machen wir uns auf, zusammen mit Ange
 
 ![naa. Fotografinnen Fabienne und Julia live bei der Arbeit. (aufgenommen von Moritz Streit)](souvy-1.jpg)
 
-{{<box title="Ausklappbare Box">}
-
-**Das Unternehmen naa.**
+{{<box title="Das Unternehmen 'naa.'">}}
 
 naa. ist eine junge Digitalagentur, welche von den zwei jungen Frauen Fabienne und Julia geführt wird. Sie realisieren multimediale Aufträge für Unternehmen jeglicher Grösse. Sie beraten und unterstützen bedürfnisorientiert, zielführend und unkompliziert. Dabei liegt ihnen ein offener Austausch auf Augenhöhe am Herzen. Ihr Auftritt ist persönlich, kreativ und sie zeigen viel Liebe fürs Detail und für einen gelungenen digitalen Auftritt. Sie bezeichnen sich selbst als „digitale Natives“ und kennen die Bedürfnisse der Generation von morgen bestens.
 
@@ -45,9 +41,7 @@ souvy ist ein start-up Unternehmen, das gesunde, nachhaltige Verpflegung am Arbe
 Der Alltag von Angela und Silas ist sehr vielfältig; kein Tag ist gleich wie der andere und sie haben viele unterschiedliche Arbeiten, die sie erledigen müssen. So haben sie zum Beispiel jeden Montagmorgen ein weekly reporting meeting zur Besprechung ihrer Umsatzzahlen und der Marketingprozesse wie Website-Werbung und den Auftritt auf sozialen Medien. Im Moment ist ihr wichtigster Prozess aber die Suche nach neuen Kunden; eine Aufgabe, die für jedes start-up nicht ganz einfach ist. Umso glücklicher ist Angela, dass souvy doch bereits zwei Kunden hat. Angela hat auch noch weitere Ideen. Sie erzählt, dass souvy gerne mit Menschen, die eine Beeinträchtigung haben, zusammenarbeiten möchte. Hauptsächlich im Bereich des Kochens, denn für diese Menschen sind repetitive Arbeiten einfacher. Deshalb ist deren Mithilfe beim Kleinhacken und Abpacken von Gemüse und danach beim Vakuumieren geplant. \
 Was unterscheidet souvy weiter von anderen, ähnlichen Unternehmen, die Verpflegung am Arbeitsplatz anbieten? Angela erzählt. 
 
-{{<box title="Ausklappbare Box">}
-
-**Angela Hulliger** 
+{{<box title="Angela Hulliger">}}
 
 Angela ist 29 Jahre alt und wohnt in der Lorraine in Bern. In ihrer Freizeit geht sie gerne Gleitschirm fliegen und im Winter Snowboard fahren. Unter anderem ist sie eine begeisterte Grafikdesignerin. Sie hat einen Bachelor an der BFH Berner Fachhochschule und Berufserfahrung in Brand-, Category- & Productmanagement. 
 
@@ -92,6 +86,4 @@ Trotz einigen Problemen in der start-up Phase ist Angela mit der aktuellen Situa
 Während Elias und Silas zurück von ihrer Nachfülltour beim Kunden sind, kommen auch Angela und Moritz von ihrer Lagerbesichtigung zurück zum Fotoshooting. Die beiden Fotografinnen Fabienne und Julia waren fleissig. Kurz vor elf Uhr beginnt die zweite gemeinsame Besprechung, um die gemachten Fotos anzuschauen. Angela und Silas sind sehr zufrieden. Dank professioneller Fotos, die beispielsweise eine haltende Hand im Bild zeigen, wirken die neuen Bilder natürlicher und lebendiger als die alten. Trotzdem haben Angela und Silas noch ein paar weitere Fotowünsche. Ein Sujet soll den ganzen Kühlschrank mit allen Produkten zeigen und ein weiteres das frisch zubereitete Essen. Also fängt Silas mit der Zubereitung eines Essens an und das Fotoshooting geht weiter.  \
 Um Viertel nach zwölf findet die Endbesprechung statt. Der Content für die neue Website steht und ein weiterer Meilenstein zur Professionalisierung des start-up‘s souvy ist erreicht. Die zwei Co-Founder Angela und Silas sind zufrieden mit dem Ergebnis und blicken gemeinsam mit den Fotografinnen Fabienne und Julia von naa. und uns auf einen spannenden, erfolgreichen Montagmorgen zurück. 
 
-![Vorher-nachher Vergleich der Website von souvy. (zusammengestellt von Angela Hulliger) ](souvy5-k.png)
-
-<!--EndFragment-->
+![Vorher-nachher Vergleich der Website von souvy. (zusammengestellt von Angela Hulliger)](souvy5-k.png)
