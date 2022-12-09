@@ -3,12 +3,13 @@ title = "Ein Blick hinter die Kulissen von „souvy“"
 date = "2022-12-01"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "souvy-3.jpg"
 footnotes = "Autoren: Eine Reportage von Moritz Streit und Elias Schneeberger, zwei Schüler des Gymnasiums Kirchenfeld."
 +++
 {{<lead>}}
 
-Moritz und Elias lernen während dem Fotoshooting für die neue website das start-up „souvy“ von Angela Hulliger und Silas Bohren kennen. Nachhaltige Verpflegung am Arbeitsplatz aus einer anderen Perspektive.
+Moritz und Elias lernen während dem Fotoshooting für die neue website das start-up „souvy“ von Angela Hulliger und Silas Bohren kennen. Nachhaltige Verpflegung am Arbeitsplatz aus einer anderen Perspektive. *Eine Reportage von Moritz Streit, Elias Schneeberger*
 
 {{</lead>}}
 
@@ -22,7 +23,7 @@ Während die Fotografinnen weiterarbeiten, machen wir uns auf, zusammen mit Ange
 
 ![naa. Fotografinnen Fabienne und Julia live bei der Arbeit. (aufgenommen von Moritz Streit)](souvy-1.jpg)
 
-{{<box title="Das Unternehmen \"naa.\"">}}
+{{<box title="Das Unternehmen "naa."">}}
 
 naa. ist eine junge Digitalagentur, welche von den zwei jungen Frauen Fabienne und Julia geführt wird. Sie realisieren multimediale Aufträge für Unternehmen jeglicher Grösse. Sie beraten und unterstützen bedürfnisorientiert, zielführend und unkompliziert. Dabei liegt ihnen ein offener Austausch auf Augenhöhe am Herzen. Ihr Auftritt ist persönlich, kreativ und sie zeigen viel Liebe fürs Detail und für einen gelungenen digitalen Auftritt. Sie bezeichnen sich selbst als „digitale Natives“ und kennen die Bedürfnisse der Generation von morgen bestens.
 
